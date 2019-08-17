@@ -49,97 +49,85 @@ body {
 }
 
 .min-box li:nth-child(1) {
-    background: url(https://i.ibb.co/7WVJC2v/01.png) no-repeat;
-    background-position: center;
-    background-size: 100% 100%;
+    background: url(https://i.ibb.co/7WVJC2v/01.png) no-repeat center center;
+    background-size: cover;
     transform: translateZ(50px);
     -webkit-transform: translateZ(50px);
 }
 
 .min-box li:nth-child(2) {
-    background: url(https://i.ibb.co/7WVJC2v/01.png) no-repeat;
-    background-position: center;
-    background-size: 100% 100%;
+    background: url(https://i.ibb.co/7WVJC2v/01.png) no-repeat center center;
+    background-size: cover;
     transform: rotateY(180deg) translateZ(50px);
     -webkit-transform: rotateY(180deg) translateZ(50px);
 }
 
 .min-box li:nth-child(3) {
-    background: url(https://i.ibb.co/7WVJC2v/01.png) no-repeat;
-    background-position: center;
-    background-size: 100% 100%;
+    background: url(https://i.ibb.co/7WVJC2v/01.png) no-repeat center center;
+    background-size: cover;
     transform: rotateX(-90deg) translateZ(50px);
     -webkit-transform: rotateX(-90deg) translateZ(50px);
 }
 
 .min-box li:nth-child(4) {
-    background: url(https://i.ibb.co/7WVJC2v/01.png) no-repeat;
-    background-position: center;
-    background-size: 100% 100%;
+    background: url(https://i.ibb.co/7WVJC2v/01.png) no-repeat center center;
+    background-size: cover;
     transform: rotateX(90deg) translateZ(50px);
     -webkit-transform: rotateX(90deg) translateZ(50px);
 }
 
 .min-box li:nth-child(5) {
-    background: url(https://i.ibb.co/7WVJC2v/01.png) no-repeat;
-    background-position: center;
-    background-size: 100% 100%;
+    background: url(https://i.ibb.co/7WVJC2v/01.png) no-repeat center center;
+    background-size: cover;
     transform: rotateY(-90deg) translateZ(50px);
     -webkit-transform: rotateY(-90deg) translateZ(50px);
 }
 
 .min-box li:nth-child(6) {
-    background: url(https://i.ibb.co/7WVJC2v/01.png) no-repeat;
-    background-position: center;
-    background-size: 100% 100%;
+    background: url(https://i.ibb.co/7WVJC2v/01.png) no-repeat center center;
+    background-size: cover;
     transform: rotateY(90deg) translateZ(50px);
     -webkit-transform: rotateY(90deg) translateZ(50px);
 }
 
 .max-box li:nth-child(1) {
-    background: url(https://i.ibb.co/wQSv3yb/02.png) no-repeat;
-    background-position: center;
-    background-size: 100% 100%;
+    background: url(https://i.ibb.co/wQSv3yb/02.png) no-repeat center center;
+    background-size: cover;
     transform: translateZ(50px);
     -webkit-transform: translateZ(50px);
 }
 
 .max-box li:nth-child(2) {
-    background: url(https://i.ibb.co/wQSv3yb/02.png) no-repeat;
-    background-position: center;
-    background-size: 100% 100%;
+    background: url(https://i.ibb.co/wQSv3yb/02.png) no-repeat center center;
+    background-size: cover;
     transform: rotateX(180deg) translateZ(50px);
     -webkit-transform: rotateX(180deg) translateZ(50px);
 }
 
 .max-box li:nth-child(3) {
-    background: url(https://i.ibb.co/wQSv3yb/02.png) no-repeat;
-    background-position: center;
-    background-size: 100% 100%;
+    background: url(https://i.ibb.co/wQSv3yb/02.png) no-repeat center center;
+    background-size: cover;
     transform: rotateX(-90deg) translateZ(50px);
     -webkit-transform: rotateX(-90deg) translateZ(50px);
 }
 
 .max-box li:nth-child(4) {
-    background: url(https://i.ibb.co/wQSv3yb/02.png) no-repeat;
-    background-position: center;
-    background-size: 100% 100%;
+    background: url(https://i.ibb.co/wQSv3yb/02.png) no-repeat center center;
+    background-size: cover;
     transform: rotateX(90deg) translateZ(50px);
     -webkit-transform: rotateX(90deg) translateZ(50px);
 }
 
 .max-box li:nth-child(5) {
-    background: url(https://i.ibb.co/wQSv3yb/02.png) no-repeat;
-    background-position: center;
-    background-size: 100% 100%;
+    background: url(https://i.ibb.co/wQSv3yb/02.png) no-repeat center center;
+    background-size: cover;
     transform: rotateX(-90deg) translateZ(50px);
     -webkit-transform: rotateX(-90deg) translateZ(50px);
 }
 
 .max-box li:nth-child(6) {
-    background: url(https://i.ibb.co/wQSv3yb/02.png) no-repeat;
-    background-position: center;
-    background-size: 100% 100%;
+    background: url(https://i.ibb.co/wQSv3yb/02.png) no-repeat center center;
+    background-size: cover;
     transform: rotateX(90deg) translateZ(50px);
     -webkit-transform: rotateX(90deg) translateZ(50px);
 }
